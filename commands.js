@@ -102,7 +102,7 @@ function clearKeyMappingsAndSetDefaults() {
 
     "d": "scrollPageDown",
     "u": "scrollPageUp",
-    "r": "reload",
+    "rr": "reload",
     "gs": "toggleViewSource",
 
     "i": "enterInsertMode",
@@ -113,7 +113,7 @@ function clearKeyMappingsAndSetDefaults() {
 
     "gi": "focusInput",
 
-    "f":     "linkHints.activateMode",
+    "ff":     "linkHints.activateMode",
     "F":     "linkHints.activateModeToOpenInNewTab",
     "<a-f>": "linkHints.activateModeWithQueue",
 
@@ -127,8 +127,8 @@ function clearKeyMappingsAndSetDefaults() {
     "yy": "copyCurrentUrl",
     "yf": "linkHints.activateModeToCopyLinkUrl",
 
-    "p": "openCopiedUrlInCurrentTab",
-    "P": "openCopiedUrlInNewTab",
+    "pp": "openCopiedUrlInCurrentTab",
+    "PP": "openCopiedUrlInNewTab",
 
     "K": "nextTab",
     "J": "previousTab",
@@ -138,7 +138,7 @@ function clearKeyMappingsAndSetDefaults() {
     "g$": "lastTab",
 
     "t": "createTab",
-    "x": "removeTab",
+    "xx": "removeTab",
     "X": "restoreTab",
 
     "b": "activateBookmarkFindMode",
